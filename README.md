@@ -17,3 +17,10 @@ All values like Ix^2, Ix.Iy etc. all are calculated in this manner.
 where, trace = Ix^2 + Iy^2 & det = Ix^2*Iy^2 -(IxIy)^2
 
 if this output value is above a set threshold then that point is defined as corner.
+
+## Sample Outputs
+
+![1](https://github.com/K-Tanishq/Corner-Detection/assets/169484818/1428db41-3134-4f6c-8203-b9492d0634a9)
+![2](https://github.com/K-Tanishq/Corner-Detection/assets/169484818/a610a469-43c7-41e8-82d4-591d8ed1f4e4)
+![3](https://github.com/K-Tanishq/Corner-Detection/assets/169484818/c1e8fc54-57e7-4887-b808-37abcaa17540)
+![4](https://github.com/K-Tanishq/Corner-Detection/assets/169484818/5aacf4b5-9924-43e4-a29a-27d20e517832)
